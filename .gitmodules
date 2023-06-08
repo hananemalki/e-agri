@@ -1,0 +1,3 @@
+[submodule "e-agri"]
+	path = e-agri
+	url = https://github.com/hananemalki/test.git
